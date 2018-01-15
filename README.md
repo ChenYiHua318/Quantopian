@@ -1,14 +1,14 @@
-績效分析
-# RETURNS     ALPHA   BETA   SHARPE  DRAWDOWN
-# 505.06%     0.36    1.25   1.50    -25.58%
-迴測時間
-# 2014/01/01-2017/12/31
-選股
-#  337  : Applied Material
-#  114  : Adobe
-# 16841 : Amazon
+# 績效分析
+RETURNS     ALPHA   BETA   SHARPE  DRAWDOWN
+505.06%     0.36    1.25   1.50    -25.58%
+# 迴測時間
+2014/01/01-2017/12/31
+# 選股
+337  : Applied Material
+114  : Adobe
+16841 : Amazon
 
-
+# 程式
 def initialize(context):
 
     #Applied Material，Adobe，Amazon
