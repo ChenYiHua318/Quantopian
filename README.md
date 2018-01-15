@@ -1,5 +1,5 @@
 ### 績效分析
-RETURNS     ALPHA   BETA   SHARPE  DRAWDOWN
+RETURNS     ALPHA   BETA   SHARPE     DRAWDOWN
 
 505.06%          0.36        1.25     1.50        -25.58%
 ### 迴測時間
